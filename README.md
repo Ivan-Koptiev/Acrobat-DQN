@@ -33,7 +33,7 @@ pip install gymnasium torch numpy matplotlib seaborn
 
 -Clone repository:
 ```bash
-git clone "https://github.com/Sat1x/Acrobat-DQN"
+git clone "https://github.com/Ivan-Koptiev/Acrobat-DQN"
 ```
 
 Run the training script:
